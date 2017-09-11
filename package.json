@@ -1,0 +1,20 @@
+{
+  "name": "mode-phaser",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "gulp"
+  },
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.2",
+    "gulp-util": "^3.0.8",
+    "phaser-ce": "^2.8.5",
+    "tsify": "^3.0.1",
+    "typescript": "^2.5.2",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.9.0"
+  }
+}
